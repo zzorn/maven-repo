@@ -3,7 +3,7 @@
   <groupId>org.flowutils</groupId>
   <artifactId>flowutils</artifactId>
   <versioning>
-    <release>0.1.87</release>
+    <release>0.1.88</release>
     <versions>
       <version>0.1</version>
       <version>0.1.1</version>
@@ -90,7 +90,8 @@
       <version>0.1.85</version>
       <version>0.1.86</version>
       <version>0.1.87</version>
+      <version>0.1.88</version>
     </versions>
-    <lastUpdated>20150810182355</lastUpdated>
+    <lastUpdated>20150812130358</lastUpdated>
   </versioning>
 </metadata>
